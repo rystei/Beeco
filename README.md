@@ -1,4 +1,4 @@
-Read me do projeto.
+Readme do projeto.
 O projeto é um aplicativo IOS chamado Beeco que possui como objetivo auxiliar pessoas a procura de empregos.
 Entrando no aplicativo é possivel encontrar 2 funcionalidades login e cadastrar-se.
 Login: Clicando em Login o usuario vai acessar a pagina de identificação de usuario onde pode colocar seu usuario e senha e clicando novamente em login vai ser redirecionado a pagina Home do beeco.
